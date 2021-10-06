@@ -1,0 +1,13 @@
+C:\Users\brand\source\repos\ArrayLooping\ArrayLooping\bin\Debug\netcoreapp3.1\ArrayLooping.exe
+C:\Users\brand\source\repos\ArrayLooping\ArrayLooping\bin\Debug\netcoreapp3.1\ArrayLooping.deps.json
+C:\Users\brand\source\repos\ArrayLooping\ArrayLooping\bin\Debug\netcoreapp3.1\ArrayLooping.runtimeconfig.json
+C:\Users\brand\source\repos\ArrayLooping\ArrayLooping\bin\Debug\netcoreapp3.1\ArrayLooping.runtimeconfig.dev.json
+C:\Users\brand\source\repos\ArrayLooping\ArrayLooping\bin\Debug\netcoreapp3.1\ArrayLooping.dll
+C:\Users\brand\source\repos\ArrayLooping\ArrayLooping\bin\Debug\netcoreapp3.1\ArrayLooping.pdb
+C:\Users\brand\source\repos\ArrayLooping\ArrayLooping\obj\Debug\netcoreapp3.1\ArrayLooping.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\ArrayLooping\ArrayLooping\obj\Debug\netcoreapp3.1\ArrayLooping.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\ArrayLooping\ArrayLooping\obj\Debug\netcoreapp3.1\ArrayLooping.AssemblyInfo.cs
+C:\Users\brand\source\repos\ArrayLooping\ArrayLooping\obj\Debug\netcoreapp3.1\ArrayLooping.csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\ArrayLooping\ArrayLooping\obj\Debug\netcoreapp3.1\ArrayLooping.dll
+C:\Users\brand\source\repos\ArrayLooping\ArrayLooping\obj\Debug\netcoreapp3.1\ArrayLooping.pdb
+C:\Users\brand\source\repos\ArrayLooping\ArrayLooping\obj\Debug\netcoreapp3.1\ArrayLooping.genruntimeconfig.cache
